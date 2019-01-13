@@ -50,23 +50,23 @@ body{
 }
 .Mid{
 	height:2000px;
-	width:100%;
+	/*width:100%;*/
 }
 .MidTopImg{
-	height:596px;
-	width:1500px;
+	height:500px;
+	width:960px;
 	background: url(../img/MidTopImg.jpg) no-repeat;
 	background-size:100%;
 	margin:0 auto 20px auto;
 }
 .MidDerection{
-	width:1200px;
+	width:960px;
 	height:1404px;
 	margin:0 auto;
 }
 .MidDerection a{
 	text-decoration: none;
-	font-size: 36px;
+	font-size: 30px;
 	font-family:STXingKai,STLiti,STHupo,STCaiyun;
 	color:black;
 }
@@ -75,11 +75,11 @@ body{
 }
 .MDTop{
 	width: inherit;
-	height: 742px;
+	height: 720px;
 }
 .MidIntro{
 	float:left;
-	height:742px;
+	height:720px;
 	width:450px;
 }
 .MidDerection h2{
@@ -89,26 +89,26 @@ body{
 	color:#393584;
 }
 .MidFont{
-	width:440px;
-	height: 600px;
+	width:400px;
+	height: 550px;
 	border:5px solid;
-	font-size:36px;
+	font-size:30px;
 	border-color: #393584;
 	font-family:STXingKai,STLiti,STHupo,STCaiyun;
 }
 .MidFont p{
-	width:400px;
+	width:350px;
 	height:500px;
 	margin:50px auto;
 }
 .MidWorks{
 	float:right;
-	height:742px;
-	width:450px;
+	height:720px;
+	width:400px;
 }
 .MidWorks ul{
-	margin:70px auto;
-	width: 400px;
+	margin:70px 25px;
+	width: 350px;
 }
 .MidWorks li{
 	margin:10px 0;
@@ -132,7 +132,7 @@ body{
 	width:1190;
 	height:448px;
 	margin-top:40px;
-	font-size:36px;
+	font-size:30px;
 	font-family:STXingKai,STLiti,STHupo,STCaiyun;
 }
 .MDIFoot ul{
@@ -141,16 +141,16 @@ body{
 .MDIFootL{
 	float:left;
 	height:400px;
-	width:500px;
+	width:400px;
 	margin-top:20px;
-	margin-left:50px;
+	margin-left:35px;
 }
 .MIDFootR{
 	float:right;
 	height:400px;
-	width:500px;
+	width:450px;
 	margin-top:20px;
-	margin-right:50px;
+	margin-right:35px;
 }
 .MDIFootL .sl{
 	margin-right:20px;
@@ -166,7 +166,7 @@ body{
 }
 .FootMid
 {
-	width:1200px;
+	width:960px;
 	height: inherit;
 	margin:0 auto;
 	font-size:20px;
